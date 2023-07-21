@@ -1,2 +1,3 @@
 # FOSSEngineer
-Projects under the fossengineer umbrella
+
+Projects under the [fossengineer](https://fossengineer.com/) umbrella.

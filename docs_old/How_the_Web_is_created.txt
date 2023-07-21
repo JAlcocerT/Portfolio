@@ -1,0 +1,8 @@
+* Install WP
+* Add the theme ScapeShot
+* Add the widget Social icons
+* Create entries as pages so that the menu will display the dropdown
+* Add plugin Simply Static -> it will generate for us the static content, that we can include in the /docs folder on this repository
+* Before generating the static content, go to the plugin's settings and activate save for offline use.
+* Upload the content generated with the plugin to /docs
+* The site will reflect the latest changes in few minutes

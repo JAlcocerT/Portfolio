@@ -1,0 +1,28 @@
+theme = "lynx"
+title = "Lynx"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  name = "Welcome to my Portfolio."
+  headline = """
+  Jesus Alcocer Tagua
+  """
+  
+  image = "author.jpg"
+  links = [
+    { link = { href = "https://fossengineer.com", text = "Check my Blog", icon = "github" } },
+    { link = { href = "styles/", text = "All the link styles", target = "_self" } },
+    { github = "https://github.com/JAlcocerT" },
+    { linkedin = "https://twitter.com/jpanther" },
+    { gitlab = "https://gitlab.com/FOSSEngineer" },    
+    
+  ]
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true

@@ -1,0 +1,33 @@
+theme = "lynx"
+title = "JAlcocerT"
+baseURL= "https://jalcocert.github.io/fossengineer/"
+
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  name = "Open Source Portfolio"
+  headline = """
+  FOSSENGINEER
+  """
+  
+  image = "fossengineer.png" 
+  links = [
+    { github = "https://github.com/JAlcocerT/Py_Trip_Planner"},
+    { pylo = { href = "https://trip-planner.fossengineer.com/", text = "Dashboard - Py Trip Planner with Weather" } },
+    { github = "https://github.com/JAlcocerT/Py_Double_Pendulum"},
+    { pylo = { href = "https://double-pendulum.fossengineer.com/", text = "Simulation - Double Pendulum" } },
+    { github = "https://github.com/JAlcocerT/Slider-Crank"},
+    { pylo = { href = "https://slider-crank.fossengineer.com/", text = "Simulation - Slider Crank Mechanism" } },
+    { github = "https://github.com/JAlcocerT/R_Stocks"},
+    { R_logo = { href = "https://r_stocks.fossengineer.com/", text = "Dashboard - R Stocks" } },
+    { GHPages = { href = "https://jalcocert.github.io/JAlcocerT", text = "About JAlcocerT" } },
+  ]
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true

@@ -1,0 +1,71 @@
+.link-font-awesome {
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(253, 29, 29, 1) 50%,
+    rgba(252, 176, 69, 1) 100%
+  );
+}
+
+.link-fossengineer {
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    90deg,
+    rgb(92, 89, 95) 0%,
+    rgb(130, 84, 84) 50%,
+    rgb(244, 86, 61) 100%
+  );
+}
+
+.link-web3 {
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(253, 29, 29, 1) 50%,
+    rgba(252, 176, 69, 1) 100%
+  );
+}
+
+
+.link-GHPages {
+  background: rgb(74, 62, 83);
+  background: linear-gradient(
+    90deg,
+    rgb(92, 89, 95) 0%,
+    rgb(97, 60, 60) 50%,
+    rgb(227, 109, 18) 100%
+  );
+}
+
+.link-GL {
+  background: rgb(74, 62, 83);
+  background: linear-gradient(
+    90deg,
+    rgba(252, 163, 38, 1) 0%,
+    rgb(252, 109, 38) 50%,
+    rgb(226, 67, 41) 100%
+  );
+}
+
+
+.link-pylo {
+  background: rgb(74, 62, 83);
+  background: linear-gradient(
+    90deg,
+    rgb(92, 89, 95) 0%,
+    rgb(97, 60, 60) 50%,
+    rgb(227, 109, 18) 100%
+  );
+}
+
+.link-R_logo {
+  background: rgb(74, 62, 83);
+  background: linear-gradient(
+    90deg,
+    rgb(92, 89, 95) 0%,
+    rgb(97, 60, 60) 50%,
+    rgb(227, 109, 18) 100%
+  );
+}
