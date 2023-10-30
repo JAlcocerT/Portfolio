@@ -1,6 +1,6 @@
 theme = "lynx"
 title = "JAlcocerT"
-baseURL= "https://jalcocert.github.io/fossengineer/"
+baseURL= "https://jalcocert.github.io/portfolio/"
 
 
 enableEmoji = true
@@ -14,6 +14,13 @@ disableKinds = ["taxonomy", "term"]
   
   image = "fossengineer.png" 
   links = [
+    { linkedin = "https://www.linkedin.com/in/jalcocert/" },
+    { medium = "https://medium.com/@jalcocert" },
+    { youtube = "https://www.youtube.com/@JAlcocerTech" },
+    { GHPages = { href = "https://jalcocert.github.io/JAlcocerT", text = "About JAlcocerT" } },    
+    { github = "https://github.com/JAlcocerT/RPi"},
+    { github = "https://github.com/JAlcocerT/Linux"},
+    { fossengineer = { href = "https://fossengineer.com/", text = "My Tech Blog" } },
     { github = "https://github.com/JAlcocerT/Py_Trip_Planner"},
     { pylo = { href = "https://trip-planner.fossengineer.com/", text = "Dashboard - Py Trip Planner with Weather" } },
     { github = "https://github.com/JAlcocerT/Py_Double_Pendulum"},
@@ -21,8 +28,6 @@ disableKinds = ["taxonomy", "term"]
     { github = "https://github.com/JAlcocerT/Slider-Crank"},
     { pylo = { href = "https://slider-crank.fossengineer.com/", text = "Simulation - Slider Crank Mechanism" } },
     { github = "https://github.com/JAlcocerT/R_Stocks"},
-    { R_logo = { href = "https://r_stocks.fossengineer.com/", text = "Dashboard - R Stocks" } },
-    { GHPages = { href = "https://jalcocert.github.io/JAlcocerT", text = "About JAlcocerT" } },
   ]
 
 [markup.highlight]
