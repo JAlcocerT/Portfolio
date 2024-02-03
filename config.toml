@@ -7,9 +7,9 @@ enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [author]
-  name = "Open Source Portfolio"
+  name = "JAlcocerT Portfolio"
   headline = """
-  FOSSENGINEER
+  From Data Analytics to IoT
   """
   
   image = "fossengineer.png" 
