@@ -1,5 +1,5 @@
 theme = "lynx"
-title = "JAlcocerT"
+title = "JAlcocerT Data Analytics Portfolio"
 baseURL= "https://jalcocert.github.io/portfolio/"
 
 
@@ -15,12 +15,13 @@ disableKinds = ["taxonomy", "term"]
   image = "fossengineer.png" 
   links = [
         { fossengineer = { href = "https://jalcocertech.xyz/", text = "Work with Me" } },
+        { GHPages = { href = "https://jalcocert.github.io/JAlcocerT", text = "My Learning Process" } },    
+        { github = "https://github.com/JAlcocerT/"},
+
         { youtube = "https://www.youtube.com/@JAlcocerTech" },
+
     { linkedin = "https://www.linkedin.com/in/jalcocert/" },
     { medium = "https://medium.com/@jalcocert" },
-    { github = "https://github.com/JAlcocerT/"},
-        { GHPages = { href = "https://jalcocert.github.io/JAlcocerT", text = "My Learning Process" } },    
-
   ]
 
 [markup.highlight]
