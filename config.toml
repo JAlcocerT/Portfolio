@@ -1,7 +1,7 @@
 theme = "lynx"
 title = "JAlcocerT Data Analytics Portfolio"
-baseURL= "https://jalcocert.github.io/portfolio/"
-
+#baseURL = "http://192.168.1.11:1313/"
+baseURL = "https://jalcocert.github.io/Portfolio"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
@@ -14,7 +14,7 @@ disableKinds = ["taxonomy", "term"]
   
   image = "fossengineer.png" 
   links = [
-        { fossengineer = { href = "https://jalcocertech.xyz/", text = "Work with Me" } },
+        { fossengineer = { href = "https://jalcocertech.com/", text = "Work with Me" } },
         { GHPages = { href = "https://jalcocert.github.io/JAlcocerT", text = "My Learning Process" } },    
         { github = "https://github.com/JAlcocerT/"},
 
